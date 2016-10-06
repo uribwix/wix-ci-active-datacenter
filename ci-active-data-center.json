@@ -1,0 +1,4 @@
+{
+  "dataCenters" : ["aus","42","none","all"],
+  "activeDataCenter" : "aus" 
+}
